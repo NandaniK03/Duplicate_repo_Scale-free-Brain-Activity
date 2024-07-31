@@ -1,2 +1,3 @@
 # Scale-free-brain-activity
 In this study, extracted aperiodic parameters were analysed for sleep stage sensitivity as well as brain region interaction. The study investigates changes in aperiodic parameters in meditators during sleep, providing valuable insights into the interactions between meditation and sleep in shaping brain electrodynamics. The study also investigates whether aperiodic spectral parameters derived from FOOOF analysis of EEG data hold promise as objective measures for characterising sleep states.
+Link: https://nandanik03-scale-free-brain-activity.readthedocs.io/en/latest/index.html
