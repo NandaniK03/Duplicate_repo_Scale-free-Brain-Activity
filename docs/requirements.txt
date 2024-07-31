@@ -1,1 +1,2 @@
-sphinxcontrib-youtube
+sphinxcontrib.youtube
+sphinx_copybutton
